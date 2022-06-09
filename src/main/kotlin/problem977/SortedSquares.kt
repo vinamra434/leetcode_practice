@@ -7,7 +7,6 @@ fun main(args: Array<String>) {
     println("answer is ${sortedSquares(intArrayOf(1,2,3,4,5,6)).contentToString()}")
     println("answer is ${sortedSquares(intArrayOf(-5,-4,-3,-2,-1,0,1,2,3,4,5,6)).contentToString()}")
     println("Hello world")
-
 }
 
 fun sortedSquares(nums: IntArray): IntArray {
